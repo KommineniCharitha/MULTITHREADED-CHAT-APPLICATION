@@ -16,3 +16,4 @@ In the third task, I created a basic client-server chat application using Java's
 
 "OUTPUT"
 
+![Image](https://github.com/user-attachments/assets/314bdcc4-4c39-4036-9001-ef25e2ac8639)
